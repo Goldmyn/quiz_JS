@@ -41,5 +41,3 @@ function checkAnswer(event) {
     "result"
   ).textContent = `Your score is ${score} out of ${correctAnswers.length}`;
 }
-
-
